@@ -1,1 +1,3 @@
-# curso POO (Javascript)
+# Curso de Programacion Orientada a Objetos
+
+
