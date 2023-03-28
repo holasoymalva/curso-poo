@@ -28,3 +28,6 @@
     - Clases abstractas y métodos abstractos.
     - Interfaces y su implementación en una clase.
 
+## Referencias
+
+* [freecodecamp](https://www.freecodecamp.org/espanol/news/programacion-orientada-a-objectos-en-javascript-explicado-con-ejemplos/)
