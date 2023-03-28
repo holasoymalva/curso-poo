@@ -1,1 +1,1 @@
-# curso-poo
+# curso POO (Javascript)
