@@ -3,7 +3,11 @@
 
 - Fundamentos de POO
 - POO en Javascript
+    - Aprendiendo POO con Javascript en un proyecto real  
+    - Fundamentos de POO en Javascript
 - POO en Python
+    - Aprendiendo POO con Python en un proyecto real  
+    - Fundamentos de POO en Python 
 - POO en Java
 - POO en C++
 - POO en Golang
